@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leandrarwalz
-- 👀 I’m interested in product management with a technical base
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on my next steps
+- 👀 I’m interested in product management with a technical base.
+- 🌱 I’m currently learning SQL.
+- 💞️ I’m looking to collaborate on new learning resources.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/leandra-w-977838146/">LinkedIn: Leandra Walz</a>
 
 <!---
